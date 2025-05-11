@@ -1,0 +1,21 @@
+--2025-05-10 20:27:12--  https://go.microsoft.com/fwlink/p/?linkid=2216019
+Resolving go.microsoft.com (go.microsoft.com)... 23.210.2.210, 2600:1408:ac00:1a1::2c1a, 2600:1408:ac00:19d::2c1a, ...
+Connecting to go.microsoft.com (go.microsoft.com)|23.210.2.210|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aka.ms/sqlserver2022express [following]
+--2025-05-10 20:27:12--  https://aka.ms/sqlserver2022express
+Resolving aka.ms (aka.ms)... 95.101.150.57
+Connecting to aka.ms (aka.ms)|95.101.150.57|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://download.microsoft.com/download/5/1/4/5145fe04-4d30-4b85-b0d1-39533663a2f1/SQL2022-SSEI-Expr.exe [following]
+--2025-05-10 20:27:13--  https://download.microsoft.com/download/5/1/4/5145fe04-4d30-4b85-b0d1-39533663a2f1/SQL2022-SSEI-Expr.exe
+Resolving download.microsoft.com (download.microsoft.com)... 23.62.161.112, 2600:1408:c400:168a::317f, 2600:1408:c400:1680::317f
+Connecting to download.microsoft.com (download.microsoft.com)|23.62.161.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4290992 (4.1M) [application/octet-stream]
+Saving to: ‘index.html?linkid=2216019’
+
+index.html?linkid=2216019               0%[                                                                       ]       0  --.-KB/s               index.html?linkid=2216019             100%[======================================================================>]   4.09M  --.-KB/s    in 0.1s    
+
+2025-05-10 20:27:13 (28.9 MB/s) - ‘index.html?linkid=2216019’ saved [4290992/4290992]
+
